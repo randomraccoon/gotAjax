@@ -69,6 +69,11 @@ h2
     margin-bottom: 0;
 }
 
+.search-container
+{
+    float: right;
+}
+
 /* Tooltip container */
 .tooltip
 {
@@ -87,6 +92,7 @@ h2
 
     position: absolute;
     z-index: 1;
+    right: 1px;
 
     visibility: hidden;
 
